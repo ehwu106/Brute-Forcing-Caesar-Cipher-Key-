@@ -1,4 +1,4 @@
-# Brute-Forcing-Caesar-Cipher-Key
+# Brute-Forcing-Encrypted-Caesar-Cipher-Message
 Simple Python script that brute force the key of an encrypted message with caesar cipher algorithm. Since Caesar Cipher is a weak encryption algorithm, it is not advise to use such algorithm to encrypt your data. This script will try all combinations of keys and using ASCII decimals to determine the appropriate letters to output. 
 
 # Ethics
