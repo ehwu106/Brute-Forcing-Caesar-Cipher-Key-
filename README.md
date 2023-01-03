@@ -8,3 +8,6 @@ This is a simple example and demonstration of how one might tackle a bruteforce 
 1.) `python encode.py` - Enter your message and key to retrieve the encrypted message.
 
 2.) `python brute.py` - enter the encrypted message and get a lists of brute forced results.
+
+# License
+[GNU General Public License v3.0](LICENSE)
